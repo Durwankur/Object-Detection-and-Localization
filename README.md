@@ -4,6 +4,6 @@ BE final year Project
 Project Guide: Prof. A.D Palsodkar
 
 Project Members: 
-  1) Deep Dama
-  2) Durwankur Gursale
-  3) Anuja Jadhav
+  1) Deep Dama - 7
+  2) Durwankur Gursale - 17
+  3) Anuja Jadhav - 22
